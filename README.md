@@ -1,5 +1,5 @@
 ### Introduction
-MyBank is a simple Python online banking system that allows users to perform basic banking operations such as registration, login, deposit, withdrawal, fund transfer, and checking account balance.
+MyBank is a simple Python based online banking system that allows users to perform basic banking operations such as registration, login, deposit, withdrawal, fund transfer, and checking account balance.
 ### Features
 Registration: Users can create new accounts by providing a username, password, and initial balance.<br>
 Login: Registered users can enter their username and password, with an additional captcha for security.<br>
